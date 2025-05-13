@@ -16,6 +16,7 @@
 |                   |                    | 类似 Crosslingula | [Crosslingula](https://github.com/xinguohua/Crosslingula-KG-Matching) |
 |                   |                    | Graph Matching Network参考代码| [Graph Matching Network](https://github.com/xinguohua/GMN) |
 |                   |                     | SIMGNN部分代码注释             | [SIMGNN](https://github.com/git0254/LogAnalysis)     |
+|                   |                    |  Crosslingula代码注释 | [Crosslingula](https://github.com/git0254/Crosslingula-KG-Matching) |
 | GraphClassification | 图分类            | Baseline Unicorn             | [Unicorn](https://github.com/crimson-unicorn)     |
 |                   |                     | Baseline ThreaTrace             | [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)     |
 |                   |                     | Baseline MAGIC             | [MAGIC](https://github.com/FDUDSDE/MAGIC)     |
