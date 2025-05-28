@@ -21,5 +21,6 @@
 |                   |                     | Baseline ThreaTrace             | [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)     |
 |                   |                     | Baseline MAGIC             | [MAGIC](https://github.com/FDUDSDE/MAGIC)     |
 |                   |                     | GOG参考代码             | [ImbGNN](https://github.com/EnternalBlueIce/mask-code)     |
+| Atlas             | 适配代码             | 数据处理             | [ATLAS适配](https://github.com/EnternalBlueIce/atlas.git)     |
 
 
