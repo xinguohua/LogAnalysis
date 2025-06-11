@@ -30,8 +30,8 @@
 | 处理数据成图和特征        | DARPA                          |  guohua                                                                      | ✅ 已完成 | ✅ 是     |
 |                          | ATLAS                          | tuoyu/yuebin                                                              | ✅ 已完成 | ✅ 是     |
 | 图分割                    | 统一                           | guohua                                                                        | ✅ 已完成 | ✅ 是     |
-| 特征向量                  | TransE                         | guohua                                                            | ⏳ 待完成 | ❌ 否     |
-|                          | word2Vec                       | tuoyu/yuebin                                                               | ✅ 已完成 | ✅ 是     |
+| 特征向量                  | TransE                         | guohua                                                            | ✅ 已完成 | ❌ 否     |
+|                          | word2Vec                       | tuoyu/yuebin                                                               | ⏳ 待完成 | ✅ 是     |
 | 模型训练                  | 匹配                           | guohua                                                              | ✅ 已完成 | ✅ 是     |
 |                          | 分类                           | tuoyu                                                             | ⏳ 待完成 | ✅ 是     |
 |                          | 序列                           | yuebin                                                             | ⏳ 待完成 | ✅ 是     |
