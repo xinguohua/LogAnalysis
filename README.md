@@ -24,40 +24,8 @@
 | Atlas             | 适配代码             | 数据处理             | [ATLAS适配](https://github.com/EnternalBlueIce/atlas.git)     |
 
 
-| Components               | 版本                       | 负责人 | 状态     | 是否集成 |
-|--------------------------|--------------------------|----------------------------------|--------|----------|----------|
-| 处理数据成图和特征          |  DARPA     | 张三   | ✅ 已完成 | ✅ 是     |
-|                          |  ATLAS     | 张三   | ✅ 已完成 | ✅ 是     |
-| 图分割                    | 统一        | 李四   | ✅ 已完成 | ✅ 是     |
-| 特征向量                  | TransE       | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                          | word2Vec       | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-| 模型训练                  | 匹配       | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                          | 分类      | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                          | 序列      | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-| 重构攻击链                |          | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-| 模型测试                 | 图级        | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                        | 节点级       | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                        | 时间       | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                        | 超参数       | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                        | CPU/Memory  | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-|                        | 空间压缩 | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-| Fine-tuning             |          | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-| Fine-tuning实验         |          | Krystal                         | 王五   | ✅ 已完成 | ✅ 是     |
-| 图匹配              | Baseline ProvG-Searcher | [ProvG-Searcher](https://github.com/xinguohua/ProvG-Searcher)     |
-|                     | Baseline DeepHunter|     |
-|                     | Baseline Poirot|    |
-|                     | Baseline SimGNN| [SimGNN](https://github.com/xinguohua/SimGNN?tab=readme-ov-file)     |         
-|                   |  Crosslingula代码注释 | [Crosslingula](https://github.com/git0254/Crosslingula-KG-Matching) |
-|  图分类            | Baseline Unicorn             | [Unicorn](https://github.com/crimson-unicorn)     |
-|                               | Baseline ThreaTrace             | [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)     |
-|                          | Baseline MAGIC             | [MAGIC](https://github.com/FDUDSDE/MAGIC)     |
-|  图序列            | Baseline Atlas            | [Unicorn](https://github.com/crimson-unicorn)     |
-|                               | Baseline shadewashaer             | [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)     |
-|                          | Baseline prographer             | [MAGIC](https://github.com/FDUDSDE/MAGIC)     |
 
-
-
-| Components               | 版本                           | 负责人/链接                                                                 | 状态     | 是否需要集成 |
+| Components               | 版本                           | 负责人                                                             | 状态     | 是否需要集成 |
 |--------------------------|--------------------------------|-----------------------------------------------------------------------------|----------|----------|
 | 处理数据成图和特征        | DARPA                          |  guohua                                                                      | ✅ 已完成 | ✅ 是     |
 |                          | ATLAS                          | tuoyu/yuebin                                                              | ✅ 已完成 | ✅ 是     |
