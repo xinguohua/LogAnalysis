@@ -45,7 +45,7 @@
 | Fine-tuning              | -                              | guohua                                                              | ⏳ 待完成 | ✅ 是     |
 | Fine-tuning实验不同参数    | -                              | guohua                                                              | ⏳ 待完成 | ✅ 是     |
 | 图匹配(2个数据集)          | Baseline [ProvG-Searcher](https://github.com/xinguohua/ProvG-Searcher)    |     guowei        | ⏳ 待完成 |  ❌ 否    |
-|                          | Baseline DeepHunter            | -                                        | ⏳ 待补充 | ❌ 否     |
+|                          | Baseline DeepHunter            | guohua                                        | ⏳ 待补充 | ❌ 否     |
 |                          | Baseline Poirot                | yuzhang                                                                            | ⏳ 待补充 | ❌ 否     |
 |                          | Baseline [SimGNN](https://github.com/xinguohua/SimGNN?tab=readme-ov-file)   |    guowei        | ⏳ 待完成 |  ❌ 否     |
 |                          | [Crosslingula](https://github.com/git0254/Crosslingula-KG-Matching)             | yuzhang       | ⏳ 待完成 |  ❌ 否    |
