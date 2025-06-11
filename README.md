@@ -37,7 +37,7 @@
 |                          | 序列                           | yuebin                                                             | ⏳ 待完成 | ✅ 是     |
 | 重构攻击链                | -                              | guohua                                                             | ⏳ 待完成 | ✅ 是     |
 | 模型测试                  | 图级匹配                           | guohua                                                             | ✅ 已完成 | ✅ 是     |
-|                          | 图级分类读label                  | tuoyu/yubin                                                              | ✅ 已完成 | ✅ 是     |
+|                          | 图级分类读label                  | tuoyu/yubin                                                              | ⏳ 待完成  | ✅ 是     |
 |                          | 节点级读数据集label              | tuoyu/yubin                                                             | ⏳ 待完成 | ✅ 是     |
 |                          | 时间                           | guohua                                                              | ⏳ 待完成 | ✅ 是     |
 |                          | 超参数                         | guohua                                                              | ⏳ 待完成 | ✅ 是     |
