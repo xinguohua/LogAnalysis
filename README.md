@@ -57,25 +57,25 @@
 
 
 
-| Components               | 版本                           | 负责人/链接                                                                 | 状态     | 是否集成 |
+| Components               | 版本                           | 负责人/链接                                                                 | 状态     | 是否需要集成 |
 |--------------------------|--------------------------------|-----------------------------------------------------------------------------|----------|----------|
 | 处理数据成图和特征        | DARPA                          |  guohua                                                                      | ✅ 已完成 | ✅ 是     |
 |                          | ATLAS                          | tuoyu/yuebin                                                              | ✅ 已完成 | ✅ 是     |
 | 图分割                    | 统一                           | guohua                                                                        | ✅ 已完成 | ✅ 是     |
-| 特征向量                  | TransE                         | guohua                                                            | ✅ 已完成 | ✅ 是     |
+| 特征向量                  | TransE                         | guohua                                                            | ⏳ 待完成 | ❌ 否     |
 |                          | word2Vec                       | tuoyu/yuebin                                                               | ✅ 已完成 | ✅ 是     |
 | 模型训练                  | 匹配                           | guohua                                                              | ✅ 已完成 | ✅ 是     |
-|                          | 分类                           | tuoyu                                                             | ✅ 已完成 | ✅ 是     |
-|                          | 序列                           | yuebin                                                             | ✅ 已完成 | ✅ 是     |
-| 重构攻击链                | -                              | guohua                                                             | ✅ 已完成 | ✅ 是     |
+|                          | 分类                           | tuoyu                                                             | ⏳ 待完成 | ✅ 是     |
+|                          | 序列                           | yuebin                                                             | ⏳ 待完成 | ✅ 是     |
+| 重构攻击链                | -                              | guohua                                                             | ⏳ 待完成 | ✅ 是     |
 | 模型测试                  | 图级                           | guohua                                                             | ✅ 已完成 | ✅ 是     |
-|                          | 节点级读数据集label              | tuoyu/yubin                                                             | ✅ 已完成 | ✅ 是     |
-|                          | 时间                           | guohua                                                              | ✅ 已完成 | ✅ 是     |
-|                          | 超参数                         | guohua                                                              | ✅ 已完成 | ✅ 是     |
-|                          | CPU/Memory                    | tuoyu/yubin                                                              | ✅ 已完成 | ✅ 是     |
-|                          | 空间压缩                       | tuoyu/yubin                                                              | ✅ 已完成 | ✅ 是     |
-| Fine-tuning              | -                              | 王五 (Krystal)                                                              | ✅ 已完成 | ✅ 是     |
-| Fine-tuning实验          | -                              | 王五 (Krystal)                                                              | ✅ 已完成 | ✅ 是     |
+|                          | 节点级读数据集label              | tuoyu/yubin                                                             | ⏳ 待完成 | ✅ 是     |
+|                          | 时间                           | guohua                                                              | ⏳ 待完成 | ✅ 是     |
+|                          | 超参数                         | guohua                                                              | ⏳ 待完成 | ✅ 是     |
+|                          | CPU/Memory                    | tuoyu/yubin                                                              | ⏳ 待完成| ✅ 是     |
+|                          | 空间压缩                       | tuoyu/yubin                                                              | ⏳ 待完成 | ✅ 是     |
+| Fine-tuning              | -                              | guohua                                                              | ⏳ 待完成 | ✅ 是     |
+| Fine-tuning实验不同参数    | -                              | guohua                                                              | ⏳ 待完成 | ✅ 是     |
 | 图匹配                    | Baseline [ProvG-Searcher](https://github.com/xinguohua/ProvG-Searcher)    |     guowei        | ✅ 已完成 |  ❌ 否    |
 |                          | Baseline DeepHunter            | -                                        | ⏳ 待补充 | ❌ 否     |
 |                          | Baseline Poirot                | yuzhang                                                                            | ⏳ 待补充 | ❌ 否     |
