@@ -54,6 +54,6 @@
 |                          | Baseline [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)   |    mou        | ⏳ 待完成 |  ❌ 否    |
 |                          | Baseline [MAGIC](https://github.com/FDUDSDE/MAGIC)    |           tuoyu                      | ⏳ 待完成 |  ❌ 否     |
 | 图序列 (2个数据集)                     | Baseline Atlas                 |                         peng                 | ⏳ 待完成 | ❌ 否    |
-|                          | Baseline shadewashaer          |                         peng                | ⏳ 待完成 | ❌ 否     |
+|                          | Baseline shadewatcher          |                         peng                | ⏳ 待完成 | ❌ 否     |
 |                          | Baseline prographer            |                         yuebin                                                | ⏳ 待完成 | ❌ 否     |
 
