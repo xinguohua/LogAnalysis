@@ -41,7 +41,7 @@
 |                          | 节点级读数据集label              | tuoyu/yubin                                                             | ✅ 已完成 | ✅ 是     |
 |                          | 时间                           | guohua                                                              | ✅ 已完成 | ✅ 是     |
 |                          | 超参数                         | guohua                                                              | ⏳ 待完成 | ✅ 是     |
-|                          |CPU/Memory（重要）                   | tuoyu/yubin                                                              | ⏳ 待完成| ✅ 是     |
+|                          |CPU/Memory（重要）                   | tuoyu/yubin                                                              | ✅ 已完成 | ✅ 是     |
 |                          | 空间压缩                       | tuoyu/yubin                                                              | ✅ 已完成 | ✅ 是     |
 | Fine-tuning              | -                              | guohua                                                              | ✅ 已完成 | ✅ 是     |
 | **Fine-tuning实验不同参数**    | -                              | guohua                                                              | ⏳ 待完成 | ✅ 是     |
